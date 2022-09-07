@@ -1,6 +1,6 @@
-#Predicting Diabetes
+# Predicting Diabetes
 Predict diabetes effectively
-##Instructions
+## Instructions
 Install:
 ```
 pip install predicting_diabetes
