@@ -1,0 +1,8 @@
+LICENSE
+pyproject.toml
+setup.cfg
+predicting_diabetes/__init__.py
+predicting_diabetes.egg-info/PKG-INFO
+predicting_diabetes.egg-info/SOURCES.txt
+predicting_diabetes.egg-info/dependency_links.txt
+predicting_diabetes.egg-info/top_level.txt
