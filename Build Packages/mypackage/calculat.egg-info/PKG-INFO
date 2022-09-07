@@ -1,0 +1,16 @@
+Metadata-Version: 2.1
+Name: calculat
+Version: 0.0.1
+Summary: For generating A E S T H E T I C ascii art
+Home-page: https://github.com/jamescalam/aesthetic_ascii
+Author: abdelrahmanelsaeid
+Author-email: abdelrahmanelsaeid5@gmail.com
+Classifier: Programming Language :: Python :: 3
+Classifier: License :: OSI Approved :: MIT License
+Classifier: Operating System :: OS Independent
+Requires-Python: >=3.7
+Description-Content-Type: text/markdown
+License-File: LICENSE
+
+
+basic calculator
