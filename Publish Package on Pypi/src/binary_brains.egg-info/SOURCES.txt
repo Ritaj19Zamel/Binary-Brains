@@ -1,0 +1,10 @@
+LICENSE
+README.md
+setup.py
+src/binary_brains/__init__.py
+src/binary_brains/model.py
+src/binary_brains/my_class.py
+src/binary_brains.egg-info/PKG-INFO
+src/binary_brains.egg-info/SOURCES.txt
+src/binary_brains.egg-info/dependency_links.txt
+src/binary_brains.egg-info/top_level.txt

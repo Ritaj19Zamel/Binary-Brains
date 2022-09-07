@@ -1,0 +1,22 @@
+Metadata-Version: 2.1
+Name: binary-brains
+Version: 0.0.3
+Summary: A small example package
+Home-page: 
+Author: Zakaria Ahmed
+Author-email: zakaria.ahmed6765@gmail.com
+Project-URL: Bug Tracker, https://github.com/pypa/sampleproject/issues
+Classifier: Development Status :: 5 - Production/Stable
+Classifier: Intended Audience :: Education
+Classifier: Operating System :: Microsoft :: Windows :: Windows 10
+Classifier: License :: OSI Approved :: MIT License
+Classifier: Programming Language :: Python :: 3
+Requires-Python: >=3.6
+Description-Content-Type: text/markdown
+License-File: LICENSE
+
+# binary-brains
+### to install:
+```bash
+pip3 install binary-brains
+```
