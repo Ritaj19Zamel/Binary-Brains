@@ -1,0 +1,3 @@
+[submodule "try_build_package"]
+	path = try_build_package
+	url = https://github.com/Ritaj19Zamel/try_build_package.git
