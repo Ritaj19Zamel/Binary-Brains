@@ -1,0 +1,7 @@
+LICENCE
+README.md
+setup.py
+src/Package_for_math.egg-info/PKG-INFO
+src/Package_for_math.egg-info/SOURCES.txt
+src/Package_for_math.egg-info/dependency_links.txt
+src/Package_for_math.egg-info/top_level.txt
