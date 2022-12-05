@@ -23,7 +23,9 @@ while True :
 
     cv2.drawContours(frame,contours,-1,(0,0,255),2)
     cv2.imshow("Show",frame)
+    image_number +=1
     if cv2.waitKey(1) == ord('q'):
             break
-    image_number +=1
-    cv2.waitKey(1)#to hold image
+
+cap.release()
+cv2.destroyAllWindows()
